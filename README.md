@@ -6,7 +6,7 @@ by Fethi Erdinç Uzun and Ahmet Faruk Yavuz
 
 This Library is licensed under a GPLv3 License
 
-  Copyright (c) 2015, Fethi Erdinc Uuzn - http://blog.fethierdincuzun.com/ * All rights reserved.
+  Copyright (c) 2015, Fethi Erdinc Uzun - http://blog.fethierdincuzun.com/ * All rights reserved.
  
   Redistribution and use in source and binary forms, with or without
   modification, are permitted provided that the following conditions
